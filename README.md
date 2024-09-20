@@ -1,5 +1,3 @@
-//# get_ip_status
-
 IP Status Checker
 
 Overview
